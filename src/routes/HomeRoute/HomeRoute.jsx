@@ -1,5 +1,5 @@
 import React from 'react'
 
 export default function HomeRoute() {
-    return <div>HomeRoute</div>
+  return <div>HomeRoute</div>
 }

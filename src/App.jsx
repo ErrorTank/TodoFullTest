@@ -13,7 +13,7 @@ import HomeRoute from './routes/HomeRoute/HomeRoute'
 const location = new ReactLocation()
 
 function App() {
-  const { test } = location
+  const { test, hihi } = location
 
   const { ab } = abb
   return (
